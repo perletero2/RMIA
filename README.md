@@ -15,12 +15,12 @@ keepassxc
 
 piavpn  
 
-#### Wtf ???
+## Wtf ???
 
 smb4k # still need to find the origin of the icon i have (not present in any of the inherited icon packs)
 
 
-#### Todo
+## Todo
 
 - [ ] Check if the renamed icons needed that just because of my setup or not.
 
