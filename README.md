@@ -11,7 +11,7 @@
 - xclicker  
 
 ## List of renamed icons
-#### Those icons wera already present but under different names and didn't work until changed
+#### Those icons were already present but under different names and didn't work until changed
 
 - keepassxc  
 
