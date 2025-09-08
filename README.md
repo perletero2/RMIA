@@ -6,7 +6,7 @@
 - curseforge  
 
 ## List of Icons made from PNG
-#### Icons mabe by convertig PNG image to SVG, just for testing, quality to be perfected.
+#### Icons mabe by convertig PNG image to SVG, just for testing, poor quality, don't use.
 
 - xclicker  
 
