@@ -5,26 +5,31 @@
 - youtube-music (th-ch)  
 - curseforge  
 
-## List of Icons made from PNG
+
+
+## Icons in "extra" are here for testing only, usage not recommanded
+
+
+### List of Icons made from PNG
 #### Icons mabe by convertig PNG image to SVG, just for testing, poor quality, don't use.
 
 - xclicker  
 
-## List of renamed icons
+### List of renamed icons
 #### Those icons were already present but under different names and didn't work until changed
 
 - keepassxc  
 
-## List of cloned icons
+### List of cloned icons
 #### Those icons were present for system tray but not as App icons and were just copied in apps folder while waiting for proper version
 
 - piavpn  
 
-## Wtf ???
+### Wtf ???
 
 - smb4k # still need to find the origin of the icon i have (not present in any of the inherited icon packs)  
 
 
-## Todo
+### Todo
 
 - [ ] Check if the renamed icons needed that just because of my setup or not.
