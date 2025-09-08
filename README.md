@@ -3,6 +3,7 @@
 - corectrl  
 - nvim  
 - youtube-music (th-ch)  
+- curseforge  
 
 
 ## List of renamed icons
