@@ -5,6 +5,10 @@
 - youtube-music (th-ch)  
 - curseforge  
 
+## List of Icons made from PNG
+#### Icons mabe by convertig PNG image to SVG, just for testing, quality to be perfected.
+
+- xclicker  
 
 ## List of renamed icons
 #### Those icons wera already present but under different names and didn't work until changed
@@ -18,7 +22,7 @@
 
 ## Wtf ???
 
-- smb4k # still need to find the origin of the icon i have (not present in any of the inherited icon packs)
+- smb4k # still need to find the origin of the icon i have (not present in any of the inherited icon packs)  
 
 
 ## Todo
