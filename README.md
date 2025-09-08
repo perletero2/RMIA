@@ -11,7 +11,7 @@
 - keepassxc  
 
 ## List of cloned icons
-#### Those icons were present for system tray but not as App icons and were just copied in apps folder 
+#### Those icons were present for system tray but not as App icons and were just copied in apps folder while waiting for proper version
 
 - piavpn  
 
