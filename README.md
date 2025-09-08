@@ -23,4 +23,4 @@
 ## Todo
 
 - [ ] Check if the renamed icons needed that just because of my setup or not.
-
+- [ ] Redo nvim icon in 128x128
