@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   role="img"
+   viewBox="0 0 128 128"
+   id="Curseforge"
+   height="128"
+   width="128"
+   version="1.1"
+   sodipodi:docname="curseforge.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#008000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.6953125"
+     inkscape:cx="9.4377879"
+     inkscape:cy="84.35023"
+     inkscape:window-width="1143"
+     inkscape:window-height="640"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Curseforge" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+    .ColorScheme-Text {
+    color:#ffffff;
+    }
+  </style>
+  <path
+     d="M97.73866666666666 49.14399999999999S123.87253333333332 45.022933333333334 128 33.00373333333333h-40.035199999999996V23.46666666666667H0l10.836266666666667 12.573866666666667V48.922666666666665s27.342399999999998 -1.4213333333333333 37.91893333333333 6.5984c14.477866666666666 13.418666666666667 -16.282666666666664 31.557333333333332 -16.282666666666664 31.557333333333332L27.197333333333333 104.53333333333333c8.248 -7.853866666666666 23.967999999999996 -18.013333333333332 52.790933333333335 -17.523733333333332 -10.968 3.466666666666667 -21.997333333333334 8.880533333333332 -30.583466666666666 17.523733333333332h58.26559999999999l-5.486933333333333 -17.453866666666666s-42.22933333333333 -24.900266666666667 -4.445866666666666 -37.9344z"
+     fill="currentColor"
+     stroke-width="5.3333"
+     id="path1"
+     class="ColorScheme-Text"
+     inkscape:label="main" />
+</svg>
