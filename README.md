@@ -5,6 +5,7 @@
 - youtube-music (th-ch)
 - curseforge
 - mpd
+- smplayer
 - system-config-samba
 - smb4k (sym)
 - keepassxc (sym)
