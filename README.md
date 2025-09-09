@@ -1,28 +1,16 @@
 ## List of added icons
 
-- corectrl  
-- nvim  
-- youtube-music (th-ch)  
-- curseforge  
-
-
-## Icons in "extra" are here for testing only, please ignore.
-
-#### Icons mabe by convertig PNG image to SVG with Bitmap tracing, just for testing, poor quality, don't use.
-
-- xclicker  
-
-#### Those icons were already present but under different names and didn't work until changed
-
-- keepassxc  
-
-### Wtf ???
-
-- smb4k # still need to find the origin of the icon i have (not present in any of the inherited icon packs)
-- mpd # same
-
+- corectrl
+- nvim
+- youtube-music (th-ch)
+- curseforge
+- mpd
+- system-config-samba
+- smb4k (sym)
+- keepassxc (sym)
 
 ### Todo
 
-- [ ] Check if the renamed icons needed that just because of my setup or not.
 - [ ] Try split version of Nvim
+- [ ] Add remaining icons
+- [ ] Learn to draw...
