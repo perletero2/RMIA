@@ -16,6 +16,7 @@ Icons in Test folder were made from PNG with Bitmap Tracing. They are usable but
 
 ### Todo
 
+- [ ] Choose which corectrl icon will be used
 - [ ] Try split version of Nvim
 - [ ] Add remaining icons
 - [ ] Learn to draw...
