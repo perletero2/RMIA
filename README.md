@@ -7,6 +7,7 @@
 - mpd
 - smplayer
 - system-config-samba
+- koi
 - smb4k (sym)
 - keepassxc (sym)
 
