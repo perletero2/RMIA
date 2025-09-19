@@ -1,5 +1,6 @@
 ## List of added icons
 
+- piavpn
 - corectrl
 - nvim
 - youtube-music (th-ch)
