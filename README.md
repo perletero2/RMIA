@@ -4,6 +4,7 @@
 - protontricks (sym)
 - rofi
 - satty
+- electron37 (sym)
 
 ### Todo
 
